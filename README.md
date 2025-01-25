@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FaithWH14 (Wen Hao) from Johor Bahru and currently working in Petaling Jaya, Selangor
-- 👀 I’m interested in C++, Robotics, AI, and 3D Algorithm Development.
+- 👀 I’m interested in C/C++, Embedded/Software and Firmware Development.
 - 🌱 I’m striving to become professional C++ software engineer
 - 💞️ I love math, coding and problem solving and am looking to collaborate on any interesting and challenging projects.
 - 📫 How to reach me -> cwh.wen.hao@gmail.com
